@@ -1,0 +1,6 @@
+build/
+deploy/
+.vscode/
+u-boot-stm32mp-2020.10.r1/
+u-boot-stm32mp-2020.10.r1-r0.tar.gz
+
